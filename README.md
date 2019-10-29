@@ -13,4 +13,6 @@ $ python3 server.py
 $ python3 client.py  
 ```
 (On terminal-2)\
+ \
+ \
 Enter the ip to whom the client want to connect to ... (in one to one put ip of server which would be displayed and your then good to go about)
